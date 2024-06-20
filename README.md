@@ -21,5 +21,5 @@ I am a software engineer at DoorDash working on handling financials and payments
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++"></code>
-<code><img height="27" src="[https://banner2.cleanpng.com/20190529/uh/kisspng-firebase-cloud-messaging-google-cloud-messaging-ap-5ceed4e7432b70.0924427415591559432751.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg)" alt="firebase"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg" alt="firebase"></code>
 
